@@ -1,0 +1,3 @@
+Python v3.14
+matplotlib
+scipy
